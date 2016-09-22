@@ -3,7 +3,7 @@ layout:     post
 title:      "十年"
 subtitle:   "\"十年\""
 date:       2016-09-21 23:59:59
-author:     "Hux"
+author:     "Baispro"
 header-img: "img/post-bg-re-vs-ng2.jpg"
 header-mask: 0.3
 catalog:    true
